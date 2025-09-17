@@ -1,1 +1,2 @@
-print("ETA CONFLICT ?")
+print("ETA CONFLICTA ?")
+print("ETA CONFLICTA ?")
